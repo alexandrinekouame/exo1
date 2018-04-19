@@ -1,0 +1,33 @@
+.nav{
+	background-color: aqua;
+}
+h2{
+	background-color: #7FFF00;
+	padding-right: 3px;
+	margin:2px;
+	border: 2px;
+}
+.col-md-4{
+	border: double;
+	background-color: #F0F8FF;
+}
+
+
+
+.left{
+	margin-right: 650px;
+	background-color: #7FFF00;
+	border: double blue;
+	
+}
+.b1{
+	border: auto;
+}
+body{
+	background-color: #f0ffff;
+}
+h4{
+	border: ridge;
+	border-color: 008B8B;
+	background-color: bisque;
+}
